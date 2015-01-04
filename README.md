@@ -10,3 +10,8 @@ The files in this repo are the static release files and will be updated periodic
 - added STLs oriented for use ing Hand-o-matic and plaed for printing
 - aded PDF schematics of individual parts
 - added images of assembly and comparisons between Raptor Reloaded, the Raptor Original, and the Cyborg Beast
+
+## 1-4-15 Commit by AB
+
+- fixed fit problem with finger pin (raptor_2.0_finger_pin.stl)
+- updated all instances of the finger pin (HOM, Print, plates, STLs for printing.zip)
